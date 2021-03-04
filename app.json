@@ -1,0 +1,12 @@
+{
+  "name": "registration-form",
+  "displayName": "registration-form",
+  "expo": {
+    "name": "registration-form",
+    "slug": "registration-form",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
